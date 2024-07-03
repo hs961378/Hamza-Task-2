@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.logo {
+    height: 50px;
+}
+
+#home {
+    background: url('images/travel-bg.jpg') no-repeat center center/cover;
+    color: white;
+}
+
+#about, #destinations, #contact {
+    padding: 60px 0;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}
